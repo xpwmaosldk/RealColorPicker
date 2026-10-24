@@ -3,9 +3,9 @@
     "short_name": "real color picker",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0A0A0A",
+    "theme_color": "#0A0A0A",
+    "description": "실시간 정밀 광학 컬러 피커 및 색상 추천 엔진 (Real Color Picker)",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
